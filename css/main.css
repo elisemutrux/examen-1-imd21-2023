@@ -192,6 +192,7 @@ main a {
   font-weight: 300;
   line-height: 22px;
   padding: 20px;
+  text-align: left;
 }
 
 .article-what-new p stan {
