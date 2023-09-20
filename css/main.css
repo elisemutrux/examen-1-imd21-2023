@@ -205,4 +205,65 @@ main a {
   text-transform: uppercase;
 }
 
+.section-opportunities h2 {
+  color: #000;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 50px;
+  letter-spacing: -2.5px;
+  text-transform: uppercase;
+  background: #D7A1FD;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.article-opportunities {
+  color: #000;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 800;
+  line-height: 24px;
+  letter-spacing: -1px;
+  text-transform: uppercase;
+  background: #98FB00;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.article-opportunities:last-child{
+  margin-bottom: 60px;
+}
+
+footer {
+  margin-top: 40px;
+  background: #000;
+  color:#FFF;
+  padding-bottom: 20px;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 22px;
+}
+
+footer h2 {
+  color: #313131;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 50px;
+  text-transform: uppercase;
+  padding: 20px;
+}
+
+footer h3 {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+footer p {
+  padding-bottom: 20px;
 }
