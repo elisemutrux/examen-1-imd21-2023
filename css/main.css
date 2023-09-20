@@ -127,7 +127,7 @@ h2 {
   margin-bottom: 20px;
 }
 
-main a {
+main nav a {
   color: #D7A1FD;
   font-family: 'Noto Sans', sans-serif;
   font-size: 15px;
@@ -135,16 +135,19 @@ main a {
   font-weight: 800;
   line-height: 15px;
   text-transform: uppercase;
-  background-color: #000;
-  padding: 20px 30px;
-  margin-top: 30px;
-  margin-bottom: 60px;
   text-decoration:none;
+  background-color: #000;
+  padding: 20px 30px;;
+}
+
+main nav {
+  margin-top: 10px;
+  margin-bottom: 60px;
+  display:inline-block;
 }
 
 .section-citation {
   background: #98FB00;
-  margin-top: 60px;
 }
 
 .citation {
