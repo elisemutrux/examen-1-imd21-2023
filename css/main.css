@@ -2,9 +2,6 @@
 // css variables
 // ==================================== */
 
-:root {
-}
-
 /* ====================================
 // reset rules
 // ==================================== */
@@ -41,7 +38,7 @@ video {
 }
 
 h1 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   color: #000;  
   font-size: 50px;
   font-weight: 800;
@@ -114,7 +111,7 @@ h2 {
 
 .article-what-on h3 {
   color: #000;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 30px;
   font-weight: 800;
   line-height: 36px;
@@ -129,7 +126,7 @@ h2 {
 
 main nav a {
   color: #D7A1FD;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 15px;
   font-style: italic;
   font-weight: 800;
@@ -152,7 +149,7 @@ main nav {
 
 .citation {
   color: #000;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 30px;
   font-style: italic;
   font-weight: 800;
@@ -200,7 +197,7 @@ main nav {
 
 .article-what-new p stan {
   color: #000;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 15px;
   font-style: italic;
   font-weight: 800;
@@ -210,7 +207,7 @@ main nav {
 
 .section-opportunities h2 {
   color: #000;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 50px;
   font-weight: 800;
   line-height: 50px;
@@ -223,7 +220,7 @@ main nav {
 
 .article-opportunities {
   color: #000;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 20px;
   font-style: italic;
   font-weight: 800;
@@ -252,7 +249,7 @@ footer {
 
 footer h2 {
   color: #313131;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 50px;
   font-weight: 800;
   line-height: 50px;
@@ -261,7 +258,7 @@ footer h2 {
 }
 
 footer h3 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 18px;
   font-weight: 800;
   text-transform: uppercase;
