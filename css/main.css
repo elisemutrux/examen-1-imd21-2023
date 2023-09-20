@@ -22,7 +22,7 @@ body {
   text-rendering: optimizeLegibility;
   max-width: 428px;
   margin: auto;
-  font-family: 'Noto Serif', serif;
+  font-family: "noto-serif", serif;
   text-align: center;
 }
 
@@ -112,16 +112,18 @@ h2 {
 .article-what-on h3 {
   color: #000;
   font-family: 'Nunito Sans', sans-serif;
-  font-size: 30px;
+  font-size: 18px;
   font-weight: 800;
-  line-height: 36px;
+  line-height: 24px;
   text-transform: uppercase;
 }
 
 .article-what-on {
   border: #000 solid 1px;
+  margin: 0 5px;
   padding-bottom: 10px;
   margin-bottom: 20px;
+  width: 188px;
 }
 
 main nav a {
@@ -170,7 +172,7 @@ main nav {
 
 .section-what-new {
   background: #F4EDE8;
-  padding: 0 20px;
+  padding: 0 15px;
   padding-bottom: 40px;
 }
 
@@ -178,6 +180,8 @@ main nav {
   border-radius: 20px;
   background: #FFF;
   margin-bottom: 20px;
+  margin: 0 5px;
+  width: 189px;
 }
 
 .article-what-new img {
@@ -215,7 +219,6 @@ main nav {
   text-transform: uppercase;
   background: #D7A1FD;
   padding: 20px;
-  margin-bottom: 20px;
 }
 
 .article-opportunities {
@@ -229,8 +232,10 @@ main nav {
   text-transform: uppercase;
   background: #98FB00;
   padding: 20px;
-  margin-bottom: 20px;
   text-align: left;
+  width: 214px;
+  height: 112px;
+  border: #000 solid 1px;
 }
 
 .article-opportunities:last-child{
@@ -238,7 +243,6 @@ main nav {
 }
 
 footer {
-  margin-top: 40px;
   background: #000;
   color:#FFF;
   padding-bottom: 20px;
@@ -266,4 +270,19 @@ footer h3 {
 
 footer p {
   padding-bottom: 20px;
+}
+
+.section-article-what-new {
+  display:flex;
+  flex-wrap: nowrap;
+}
+
+.section-article-what-on {
+  display:flex;
+  flex-wrap: nowrap;
+}
+
+.section-article-opportunities {
+  display:flex;
+  flex-wrap: wrap;
 }
