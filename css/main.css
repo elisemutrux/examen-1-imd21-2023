@@ -92,8 +92,12 @@ h2 {
   font-weight: 300;
   line-height: 50px;
   text-transform: uppercase;
-  margin-top: 60px;
-  margin-bottom: 30px;
+  padding-top: 60px;
+ padding-bottom: 30px;
+}
+
+.section-what-on {
+  padding: 0 20px;
 }
 
 .article-what-on img {
@@ -162,4 +166,42 @@ main a {
   line-height: 15px;
   text-transform: uppercase;
   padding-bottom: 20px;
+}
+
+.section-what-new {
+  background: #F4EDE8;
+  padding: 0 20px;
+  padding-bottom: 40px;
+}
+
+.article-what-new {
+  border-radius: 20px;
+  background: #FFF;
+  margin-bottom: 20px;
+}
+
+.article-what-new img {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.article-what-new p {
+  color: #000;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 22px;
+  padding: 20px;
+}
+
+.article-what-new p stan {
+  color: #000;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 800;
+  line-height: 22px;
+  text-transform: uppercase;
+}
+
 }
