@@ -187,6 +187,8 @@ main nav {
 .article-what-new img {
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
+  height: 258px;
+  width: 189px;
 }
 
 .article-what-new p {
@@ -245,10 +247,10 @@ main nav {
 footer {
   background: #000;
   color:#FFF;
-  padding-bottom: 20px;
-  font-size: 18px;
+  padding-bottom: 112px;
+  font-size: 13px;
   font-weight: 300;
-  line-height: 22px;
+  line-height: 18px;
 }
 
 footer h2 {
@@ -263,13 +265,9 @@ footer h2 {
 
 footer h3 {
   font-family: 'Nunito Sans', sans-serif;
-  font-size: 18px;
+  font-size: 13px;
   font-weight: 800;
   text-transform: uppercase;
-}
-
-footer p {
-  padding-bottom: 20px;
 }
 
 .section-article-what-new {
@@ -285,4 +283,17 @@ footer p {
 .section-article-opportunities {
   display:flex;
   flex-wrap: wrap;
+}
+
+.section-footer {
+  display:flex;
+  justify-content: center;;
+}
+
+.text-footer {
+  padding: 0 10px;
+}
+
+.article-2 {
+  max-height: 475px;
 }
