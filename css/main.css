@@ -53,6 +53,7 @@ header h1 stan {
   font-weight: 300;
   line-height: 50px;
   text-transform: uppercase;
+  font-family: "noto-serif", serif;
 }
 
 header p {
@@ -136,7 +137,7 @@ main nav a {
   text-transform: uppercase;
   text-decoration:none;
   background-color: #000;
-  padding: 20px 30px;;
+  padding: 20px 30px;
 }
 
 main nav {
